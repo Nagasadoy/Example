@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I was born in 1998");
+            Console.WriteLine("Nagasadoy!!!!!!!!!!1");
             Console.Read();
         }
     }
